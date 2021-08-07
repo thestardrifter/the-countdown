@@ -29,6 +29,10 @@ h1,
   width: auto;
 }
 
+.countertitle {
+  color: white;
+}
+
 .container .row .left-wrap {
   padding-right: 0;
   padding-left: 0;
